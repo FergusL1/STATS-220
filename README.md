@@ -2,16 +2,16 @@
 
 ## Hello there 👋
 
-*I'm Fergus, a Statistics and Law student at the University of Auckland!*
+I'm Fergus, a second year Statistics and Law student at the *University of Auckland*!
 
-Things I like to do in my spare time:
-1. Go for walks
-2. Play chess
+Some of the things I like to do in my spare time include:
+- Going for walks
+- Playing chess
 
-**My favourite animal are penguins!**
+A fun fact, my favourite animal are **penguins**, and here are some of my penguin plushies!
 
-![Penguin](https://www.cabq.gov/artsculture/biopark/news/10-cool-facts-about-penguins/@@images/1a36b305-412d-405e-a38b-0947ce6709ba.jpeg)
+![Penguin](https://i.imgur.com/2YLLRbH.jpeg)
 
 Feel free to send me an email or connect with me via linkedin at:
-- flee781@aucklanduni.ac.nz
-- [linkedin](https://nz.linkedin.com/in/fergus-lee)
+1. flee781@aucklanduni.ac.nz
+2. [linkedin](https://nz.linkedin.com/in/fergus-lee)
